@@ -1,0 +1,30 @@
+[ 2016-05-27T17:02:44+08:00 ] ::1 /StudentManagerCenter/index.php/MyInfo/Images/Student/photo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-05-27T17:02:44+08:00 ] ::1 /StudentManagerCenter/index.php/MyInfo/Images/Student/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-05-27T17:05:28+08:00 ] ::1 /StudentManagerCenter/index.php/MyInfo/Images/Student/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-05-27T17:05:28+08:00 ] ::1 /StudentManagerCenter/index.php/MyInfo/Images/Student/photo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-05-27T17:18:10+08:00 ] ::1 /StudentManagerCenter/index.php/Images/Student/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-05-27T17:18:10+08:00 ] ::1 /StudentManagerCenter/index.php/Images/Student/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
